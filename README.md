@@ -1,0 +1,26 @@
+## Hi , I'm Danish Khan 
+## I am 3-year computer science student graduating from NIELIT AJMER .
+
+## What I learning : 
+   MERN Stack 
+## What I building : 
+   Tracker , Url Shortner
+## Find me 
+ Linkedin : www.linkedin.com/in/danish-khan-al786
+
+looking for backend & full stack developer internship 
+
+<!--
+**danishkhan00786/danishkhan00786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
