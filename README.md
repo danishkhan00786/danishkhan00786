@@ -1,6 +1,5 @@
 ## Hi , I am Danish Khan 
  I am 3-year computer science student graduating from NIELIT AJMER .
-
 ## What I learning : 
    MERN Stack 
 ## What I building : 
